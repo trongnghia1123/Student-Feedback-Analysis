@@ -2,7 +2,6 @@
 Phân tích kết quả phản hồi của sinh viên về tư vấn tuyển sinh của trường đại học
 - Student _Feedback_Analysis.ipynb : Phân tích và thống kê
 - KHẢO-SÁT-ĐÁNH-GIÁ-CỦA-SINH-VIÊN-V-CÔNG-TÁC-TUYỂN-SINH-CỦA-TRƯỜNG-ĐẠI-HỌC.pdf : Bộ câu hỏi thu thập dữ liệu để phân tích
-Mình đã đọc qua nội dung notebook **Student_Feedback_Analysis.ipynb**. Đây là project phân tích dữ liệu khảo sát phản hồi sinh viên từ file CSV. Mình viết sẵn bản **README.md** để bạn đưa lên GitHub:
 
 ## Giới thiệu
 
